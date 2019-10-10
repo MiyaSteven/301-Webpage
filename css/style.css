@@ -1,0 +1,19 @@
+h1 {
+    margin: center;
+    color: black;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: yellow;
+}
+
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: solid; 
+    background-color: tan;
+}
+
+
